@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bilqis Lawal
-- 👀 I’m interested in Data Analytic
-- 🌱 I have just completed Data an intensive 12week programme at JUSTIT Training. Prior to this my expertise has been around Project mananagement both in the Healthcare and IT sector haven graduated form the University of East London with a 2:1 in Law
+- 👀 I’m interested in Data Analytics
+- 🌱 I have just completed an intensive 12week Bootcamp programme in Data Analytics at JUSTIT Training. Prior to this my expertise has been around Project mananagement both in the Healthcare and IT sector haven graduated form the University of East London with a 2:1 in Law
 - 💞️I am a seasoned project manager with a proven track record in both healthcare and IT sectors. My expertise lies in bridging the gap between teams, clients, and stakeholders to deliver high-impact solutions that drive success. Currently, I am enhancing my skill set through a Digital Skills Bootcamp at JustIT Training, focusing on data analytics and working on projects involving Tableau, PowerBI, and Python.
 - 💞️ I’m looking to collaborate on I am passionate about learning new data insights to solve real-world problems, eager to bring a structured, results-oriented approach to your data science initiatives while I develop to be a seasoned Data Analyst. My unique selling points include the ability to articulate complex data insights to diverse audiences, ensuring clear and effective communication. 
 - 📫 How to reach me Email - qislaw@yahoo.com<br>LinkedIn - linkedin.com/in/qislaw 
